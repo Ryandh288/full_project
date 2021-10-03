@@ -1,14 +1,11 @@
 project
 
 └───code/
-      └───r/
+└----------r/
+└----------rmd/
+└----------scripts/
+└----------sql/
 
-│       └───rmd/
-│           │  
-│       └───scripts/
-│           │  
-│       └───sql/
-│           │  
 └───data/
 │       └───processed_data/
 │           │   
