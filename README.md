@@ -18,4 +18,4 @@ Big Project Directory Structure
 │ └── figures
 │ └── reports
 │ └── tables
-│ README.md
+│ README.md file
